@@ -135,8 +135,8 @@ GameObject:
   - component: {fileID: 14302537}
   - component: {fileID: 14302536}
   - component: {fileID: 14302535}
-  m_Layer: 0
-  m_Name: Cylinder (1)
+  m_Layer: 6
+  m_Name: BlueCylinder (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -233,8 +233,8 @@ GameObject:
   - component: {fileID: 282345210}
   - component: {fileID: 282345209}
   - component: {fileID: 282345208}
-  m_Layer: 0
-  m_Name: Capsule (1)
+  m_Layer: 7
+  m_Name: GreenCapsule (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -331,8 +331,8 @@ GameObject:
   - component: {fileID: 420222287}
   - component: {fileID: 420222286}
   - component: {fileID: 420222285}
-  m_Layer: 0
-  m_Name: Capsule
+  m_Layer: 8
+  m_Name: YellowCapsule
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -417,111 +417,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 420222283}
   m_Mesh: {fileID: 10208, guid: 0000000000000000e000000000000000, type: 0}
---- !u!1 &559974152
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 559974156}
-  - component: {fileID: 559974155}
-  - component: {fileID: 559974154}
-  - component: {fileID: 559974153}
-  m_Layer: 0
-  m_Name: Camera
-  m_TagString: MainCamera
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!114 &559974153
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 559974152}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 765b14940bf99f642b55ea66bb6ba43e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  Camera: {fileID: 559974155}
-  ResolutionType: 0
-  LayersName: []
-  Filename: 0
-  Path: C:/Projects/Alpha-Channel-Screenshot-Utility/Assets/ScreenshotAlpha/Screenshots/0.png
-  BaseResolution: {fileID: 11400000, guid: 2b1dfbe8a3cc361409ccfaf6365fe44a, type: 2}
-  Width: 640
-  Height: 480
---- !u!81 &559974154
-AudioListener:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 559974152}
-  m_Enabled: 1
---- !u!20 &559974155
-Camera:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 559974152}
-  m_Enabled: 1
-  serializedVersion: 2
-  m_ClearFlags: 1
-  m_BackGroundColor: {r: 1, g: 1, b: 1, a: 1}
-  m_projectionMatrixMode: 1
-  m_GateFitMode: 2
-  m_FOVAxisMode: 0
-  m_SensorSize: {x: 36, y: 24}
-  m_LensShift: {x: 0, y: 0}
-  m_FocalLength: 50
-  m_NormalizedViewPortRect:
-    serializedVersion: 2
-    x: 0
-    y: 0
-    width: 1
-    height: 1
-  near clip plane: 0.3
-  far clip plane: 1000
-  field of view: 60
-  orthographic: 0
-  orthographic size: 5
-  m_Depth: -1
-  m_CullingMask:
-    serializedVersion: 2
-    m_Bits: 2147483647
-  m_RenderingPath: -1
-  m_TargetTexture: {fileID: 0}
-  m_TargetDisplay: 0
-  m_TargetEye: 3
-  m_HDR: 1
-  m_AllowMSAA: 1
-  m_AllowDynamicResolution: 0
-  m_ForceIntoRT: 0
-  m_OcclusionCulling: 1
-  m_StereoConvergence: 10
-  m_StereoSeparation: 0.022
---- !u!4 &559974156
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 559974152}
-  m_LocalRotation: {x: 0.22236502, y: -0.21378788, z: 0.05004533, w: 0.9499179}
-  m_LocalPosition: {x: 0, y: 5.71, z: -10}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 26.35, y: -25.367, z: 0}
 --- !u!1 &903674618
 GameObject:
   m_ObjectHideFlags: 0
@@ -534,8 +429,8 @@ GameObject:
   - component: {fileID: 903674622}
   - component: {fileID: 903674621}
   - component: {fileID: 903674620}
-  m_Layer: 0
-  m_Name: Sphere
+  m_Layer: 7
+  m_Name: GreenSphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -619,6 +514,112 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 903674618}
   m_Mesh: {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1 &944164898
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 944164902}
+  - component: {fileID: 944164901}
+  - component: {fileID: 944164900}
+  - component: {fileID: 944164899}
+  m_Layer: 0
+  m_Name: Camera
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &944164899
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 944164898}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 765b14940bf99f642b55ea66bb6ba43e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Camera: {fileID: 944164901}
+  ResolutionType: 0
+  LayersName: []
+  Filename: 
+  Path: 
+  FilePath: C:/Projects/Alpha-Channel-Screenshot-Utility/Assets/1.png
+  BaseResolution: {fileID: 11400000, guid: 2b1dfbe8a3cc361409ccfaf6365fe44a, type: 2}
+  Width: 640
+  Height: 480
+--- !u!81 &944164900
+AudioListener:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 944164898}
+  m_Enabled: 1
+--- !u!20 &944164901
+Camera:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 944164898}
+  m_Enabled: 1
+  serializedVersion: 2
+  m_ClearFlags: 1
+  m_BackGroundColor: {r: 1, g: 1, b: 1, a: 1}
+  m_projectionMatrixMode: 1
+  m_GateFitMode: 2
+  m_FOVAxisMode: 0
+  m_SensorSize: {x: 36, y: 24}
+  m_LensShift: {x: 0, y: 0}
+  m_FocalLength: 50
+  m_NormalizedViewPortRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1
+    height: 1
+  near clip plane: 0.3
+  far clip plane: 1000
+  field of view: 60
+  orthographic: 0
+  orthographic size: 5
+  m_Depth: 0
+  m_CullingMask:
+    serializedVersion: 2
+    m_Bits: 2147483647
+  m_RenderingPath: -1
+  m_TargetTexture: {fileID: 0}
+  m_TargetDisplay: 0
+  m_TargetEye: 3
+  m_HDR: 1
+  m_AllowMSAA: 1
+  m_AllowDynamicResolution: 0
+  m_ForceIntoRT: 0
+  m_OcclusionCulling: 1
+  m_StereoConvergence: 10
+  m_StereoSeparation: 0.022
+--- !u!4 &944164902
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 944164898}
+  m_LocalRotation: {x: 0.22236502, y: -0.21378788, z: 0.05004533, w: 0.9499179}
+  m_LocalPosition: {x: 0, y: 5.71, z: -10}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 26.35, y: -25.367, z: 0}
 --- !u!1 &1025058911
 GameObject:
   m_ObjectHideFlags: 0
@@ -631,8 +632,8 @@ GameObject:
   - component: {fileID: 1025058915}
   - component: {fileID: 1025058914}
   - component: {fileID: 1025058913}
-  m_Layer: 0
-  m_Name: Cube
+  m_Layer: 9
+  m_Name: RedCube
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -728,8 +729,8 @@ GameObject:
   - component: {fileID: 1047887227}
   - component: {fileID: 1047887226}
   - component: {fileID: 1047887225}
-  m_Layer: 0
-  m_Name: Cube (3)
+  m_Layer: 8
+  m_Name: YellowCube (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -825,8 +826,8 @@ GameObject:
   - component: {fileID: 1106474962}
   - component: {fileID: 1106474961}
   - component: {fileID: 1106474960}
-  m_Layer: 0
-  m_Name: Cube
+  m_Layer: 6
+  m_Name: BlueCube
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -922,8 +923,8 @@ GameObject:
   - component: {fileID: 1222762604}
   - component: {fileID: 1222762603}
   - component: {fileID: 1222762602}
-  m_Layer: 0
-  m_Name: Cube (2)
+  m_Layer: 8
+  m_Name: YellowCube (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1113,8 +1114,8 @@ GameObject:
   - component: {fileID: 1819807876}
   - component: {fileID: 1819807875}
   - component: {fileID: 1819807874}
-  m_Layer: 0
-  m_Name: Cube (1)
+  m_Layer: 7
+  m_Name: GreenCube (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1252,8 +1253,8 @@ GameObject:
   - component: {fileID: 2045989904}
   - component: {fileID: 2045989903}
   - component: {fileID: 2045989902}
-  m_Layer: 0
-  m_Name: Cube
+  m_Layer: 6
+  m_Name: BlueCube
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1349,8 +1350,8 @@ GameObject:
   - component: {fileID: 2050784568}
   - component: {fileID: 2050784567}
   - component: {fileID: 2050784566}
-  m_Layer: 0
-  m_Name: Cylinder
+  m_Layer: 9
+  m_Name: RedCylinder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

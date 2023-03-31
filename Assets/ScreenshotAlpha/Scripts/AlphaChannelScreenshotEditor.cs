@@ -11,9 +11,9 @@ public class AlphaChannelScreenshotEditor : Editor
         DrawDefaultInspector();
 
         BaseScreenshot baseScreenshot = (AlphaChannelScreenshot)target;
-        if (GUILayout.Button("TakeScreenshot"))
+        if (GUILayout.Button("Browse"))
         {
-            baseScreenshot.TakeScreenshot();
+            baseScreenshot.ChangePath();
         }
     }
 }

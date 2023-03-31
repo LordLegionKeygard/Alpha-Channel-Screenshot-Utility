@@ -33,7 +33,7 @@ public class SimpleScreenshot : BaseScreenshot
         tex_transparent.Apply();
 
         byte[] pngShot = ImageConversion.EncodeToPNG(tex_transparent);
-        File.WriteAllBytes(Path, pngShot);
+        File.WriteAllBytes(FilePath, pngShot);
 
         cam.clearFlags = bak_cam_clearFlags;
         cam.targetTexture = bak_cam_targetTexture;
@@ -43,7 +43,5 @@ public class SimpleScreenshot : BaseScreenshot
         Texture2D.Destroy(tex_transparent);
 
         AssetDatabase.Refresh();
-
-        UpdateTypeTexture();
     }
 }

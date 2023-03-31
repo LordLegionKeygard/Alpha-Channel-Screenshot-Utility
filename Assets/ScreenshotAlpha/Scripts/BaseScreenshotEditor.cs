@@ -11,9 +11,9 @@ public class BaseScreenshotEditor : Editor
         DrawDefaultInspector();
 
         BaseScreenshot baseScreenshot = (BaseScreenshot)target;
-        if(GUILayout.Button("TakeScreenshot"))
+        if(GUILayout.Button("Browse"))
         {
-            baseScreenshot.TakeScreenshot();
+            baseScreenshot.ChangePath();
         }
     }
 
