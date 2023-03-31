@@ -1,0 +1,6 @@
+1)Create layer
+2)Change Layer on objects
+3)Add new field in AlphaChannelScreenshot on Camera and write Layer name
+4)Rename filname if you need
+5)Press the button "Take Screenshot"
+6)You can find you file in Assets\ScreenshotAlpha\Screenshots
