@@ -9,7 +9,7 @@ This asset will sell in asset store, you can watch only simple script screenshot
 
 
 # Green & Yellow
-![alt text](https://psv4.userapi.com/c237131/u455428032/docs/d30/f463236dcfd8/alskzJvyNg.jpg?extra=deYRUxS3x0Vbgo823FmH5UKENGijFgUCtjf9mM6Fd77-iv0PE1L_jYEa49fFsBWp9wUcjDnh4UHNs3wAsB1cIaHo9l8_PMbn-5jzF7hh1nZkNlPu4kIobKtxv1tLi0ZV8YQDc6tFjWrBWE1qyCIAK9EBW2Zl)
+![alt text](https://sun9-24.userapi.com/impg/A1cXiW4_XHBF8ID26hkY-mb-zWTglHd9NS1hXg/c49wAffsMvA.jpg?size=1141x642&quality=96&sign=b68b74a92a4d136a41d3644fce95548e&type=album)
 
 
 # Red & Blue
