@@ -13,4 +13,4 @@ This asset will sell in asset store, you can watch only simple script screenshot
 
 
 # Red & Blue
-![alt text]([https://psv4.userapi.com/c237131/u455428032/docs/d16/11f893d752b5/hHZy2XzgB_g.jpg?extra=Mti4KfZw1071828Vn0PA5-eJlBN3m4I9zl8Hix0KKxj_eyG4zn40sOKe3L-tI3xU7fY_aFWEuoXOe0tBpwCS2nvcpJT3qKyQuyciL5Yo2MyKZWw6WTZTiknU_VcJqj7_rmqgZjWSjwHxQYv8eI43Y_kqvpmX](https://sun9-66.userapi.com/impg/xjBNBPc19jYqGDfMJ5eC1XR98dwske3JE__rCg/dKADdgc6XNU.jpg?size=1139x641&quality=96&sign=feb240fbe7a649d2e0e4a29a46d19cb1&type=album))
+![alt text](https://sun9-66.userapi.com/impg/xjBNBPc19jYqGDfMJ5eC1XR98dwske3JE__rCg/dKADdgc6XNU.jpg?size=1139x641&quality=96&sign=feb240fbe7a649d2e0e4a29a46d19cb1&type=album)
