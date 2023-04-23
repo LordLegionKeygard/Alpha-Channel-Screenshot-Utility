@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using UnityEditor;
 using UnityEngine;
 
+#if UNITY_EDITOR
+
 [CustomEditor(typeof(AlphaChannelScreenshot))]
 public class AlphaChannelScreenshotEditor : Editor
 {
@@ -17,3 +19,5 @@ public class AlphaChannelScreenshotEditor : Editor
         }
     }
 }
+
+#endif

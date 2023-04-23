@@ -3,6 +3,8 @@ using System.IO;
 using System;
 using UnityEditor;
 
+#if UNITY_EDITOR
+
 public class SimpleScreenshot : BaseScreenshot
 {
     public override void PrepareScreenshot()
@@ -45,3 +47,5 @@ public class SimpleScreenshot : BaseScreenshot
         AssetDatabase.Refresh();
     }
 }
+
+#endif

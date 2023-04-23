@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using UnityEditor;
 using UnityEngine;
 
+#if UNITY_EDITOR
+
 [CustomEditor(typeof(BaseScreenshot),true)]
 public class BaseScreenshotEditor : Editor
 {
@@ -22,3 +24,5 @@ public class BaseScreenshotEditor : Editor
         BaseScreenshot baseScreenshot = a;
     }
 }
+
+#endif
