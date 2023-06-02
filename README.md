@@ -1,8 +1,6 @@
 # Alpha-Channel-Screenshot-Utility
 This utility can take screenshot only layers what you choose, another parts will use alpha channel
 
-This asset will sell in asset store, you can watch only simple script screenshot without alpha
-
 
 # All Layers
 ![alt text](https://sun9-27.userapi.com/impg/MKvpEZ22Ommf_5FgCcqOdYRxq9rF71zWXqjV0w/Myl9TOdE26I.jpg?size=2560x1440&quality=95&sign=e57e59e91a989b4d7d9569c39e25be6e&type=album)
