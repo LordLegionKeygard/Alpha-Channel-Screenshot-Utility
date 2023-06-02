@@ -6,9 +6,6 @@
 /[Ll]ogs/
 /[Mm]emoryCaptures/
 
-/Assets/ScreenshotAlpha/Scripts/AlphaChannelScreenshot.cs
-/Assets/ScreenshotAlpha/Scripts/BaseScreenshot.cs
-
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
 
